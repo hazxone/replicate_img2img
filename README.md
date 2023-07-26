@@ -7,7 +7,7 @@ It was written in cog format to be push to replicate.com
 
 The diffusion model is from https://replicate.com/cjwbw/van-gogh-diffusion
 
-cog.yaml is specify the dependencies and python libraries
+cog.yaml specify the dependencies and python libraries
 
 predict.py is to consume input (image and prompt) and run the input through the diffusion model
 
