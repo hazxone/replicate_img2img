@@ -12,17 +12,20 @@ predict.py is to consume input (image and prompt) and run the input through the 
 &nbsp;
 
 ## Cog process
+
 To initialize the directory
 ```
 cog init
 ```
 &nbsp;
-This will build locally and do inference to the image balloon.jpg
+
+To build locally and do inference to the image balloon.jpg
 ```
 cog predict -i prompt="lvngvncnt, a kid holding a balloon -i image=@balloon.jpg"
 ```
 &nbsp;
-This will add credential and push the build to replicate.com
+
+Next add credential and push the build to replicate.com
 ```
 cog login
 cog push r8.im/hazxone/img2img-vg
