@@ -5,7 +5,7 @@
 This is an img2img in the style of Van Gogh.
 It was written in cog format to be push to replicate.com
 
-The diffusion model is from https://replicate.com/cjwbw/van-gogh-diffusion
+The diffusion model is from https://huggingface.co/dallinmackay/Van-Gogh-diffusion
 
 cog.yaml specify the dependencies and python libraries
 
