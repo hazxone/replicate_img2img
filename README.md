@@ -1,5 +1,7 @@
 # Replicate img2img model in the style of Van Gogh
 
+![Screenshot](VG-train.png)
+
 This is an img2img in the style of Van Gogh.
 It was written in cog format to be push to replicate.com
 
