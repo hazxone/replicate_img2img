@@ -21,7 +21,7 @@ cog init
 
 To build locally and do inference to the image balloon.jpg
 ```
-cog predict -i prompt="lvngvncnt, a kid holding a balloon -i image=@balloon.jpg"
+cog predict -i prompt="lvngvncnt, a kid holding a balloon" -i image=@balloon.jpg"
 ```
 &nbsp;
 
