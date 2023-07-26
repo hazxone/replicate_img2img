@@ -39,3 +39,5 @@ cog push r8.im/hazxone/img2img-vg
 Head over to https://replicate.com/hazxone/img2img-vg to try the web demo
 
 For this Van Gogh model, the author suggested to use 'lvngvncnt' in the begging of the prompt.
+
+Or use the python replicate_api.py to infer using API
