@@ -46,8 +46,9 @@ cog push r8.im/hazxone/img2img-vg
 ## Inference process
 
 Head over to https://replicate.com/hazxone/img2img-vg to try the web demo
-
+&nbsp;
 For the 3edc1fe model, use 'vangh' as the trigger word
+&nbsp;
 For the 76b7599 model, the author suggested to use 'lvngvncnt' in the begging of the prompt.
-
+&nbsp;
 Or use the python replicate_api.py to infer using API
