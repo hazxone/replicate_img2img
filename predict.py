@@ -15,7 +15,7 @@ from diffusers import (
 from PIL import Image
 from cog import BasePredictor, Input, Path
 
-MODEL_ID = "dallinmackay/Van-Gogh-diffusion"
+MODEL_ID = "hazwan/vg-session"
 MODEL_CACHE = "diffusers-cache"
 
 
