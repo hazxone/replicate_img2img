@@ -5,13 +5,13 @@
 This is an img2img in the style of Van Gogh.
 It was written in cog format to be push to replicate.com
 
-[Replicate version 3edc1fe]
+### [Replicate version 3edc1fe]
 This diffusion model was made from training 58 images of Van Gogh paintings (https://huggingface.co/hazwan/vg-session).
 It is a mix of portrait and landscape.
 
 This model does not look visually appealing because the original painting is more abstract compared to the Loving Vincent model below which trained on a movie that carefully made in the style of Van Gogh
 
-[Replicate version 76b7599]
+### [Replicate version 76b7599]
 The diffusion model is from https://huggingface.co/dallinmackay/Van-Gogh-diffusion
 
 cog.yaml specify the dependencies and python libraries
@@ -46,9 +46,15 @@ cog push r8.im/hazxone/img2img-vg
 ## Inference process
 
 Head over to https://replicate.com/hazxone/img2img-vg to try the web demo
+
 &nbsp;
+
 For the 3edc1fe model, use 'vangh' as the trigger word
+
 &nbsp;
+
 For the 76b7599 model, the author suggested to use 'lvngvncnt' in the begging of the prompt.
+
 &nbsp;
+
 Or use the python replicate_api.py to infer using API
